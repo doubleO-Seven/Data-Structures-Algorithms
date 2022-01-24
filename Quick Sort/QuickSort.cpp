@@ -38,8 +38,8 @@ void quicksort (int number[100], int first, int last)
 
 int main()
 {
-    int i, count, number[25];
-    cout<<"Enter some elements: ";
+    int i, count, number[100];
+    cout<<"How many elements do you want to insert: ";
     cin>>count;
     cout<<"Enter elements: ";
     for(i=0;i<count;i++)
