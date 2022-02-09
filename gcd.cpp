@@ -21,6 +21,5 @@ int main()
     cin>>a>>b;
     
     cout<<gcd(a,b)<<endl;
-    
     return 0;
 }
